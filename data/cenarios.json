@@ -1,0 +1,17 @@
+[
+  {
+    "nome": "Operação normal",
+    "energia_percentual": 75,
+    "sensor_termico_celsius": 55
+  },
+  {
+    "nome": "Energia baixa",
+    "energia_percentual": 18,
+    "sensor_termico_celsius": 60
+  },
+  {
+    "nome": "Superaquecimento",
+    "energia_percentual": 70,
+    "sensor_termico_celsius": 88
+  }
+]
