@@ -67,13 +67,13 @@ Além disso, o projeto pode ser utilizado em contratos governamentais de monitor
 
 ---
 
-### Demonstração
+## Demonstração
 
-## Tela Inicial do Sistema
+### Tela Inicial do Sistema
 
 ![Tela Inicial](assets/screenshot_banner.png)
 
-## Exemplo de Análise da IA
+### Exemplo de Análise da IA
 
 ![Análise da IA](assets/screenshot_analise.png)
 
