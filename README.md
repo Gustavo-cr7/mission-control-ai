@@ -25,7 +25,7 @@ O EnviroSat monitora áreas ambientais e auxilia na detecção de focos de calor
 - Coordenador de brigada de combate a incêndio
 - Analista de compliance ambiental
 
-## ## Análise de Impacto e Modelo de Negócio
+## Análise de Impacto e Modelo de Negócio
 
 ### 1. Qual o problema real terrestre que esta missão resolve?
 
