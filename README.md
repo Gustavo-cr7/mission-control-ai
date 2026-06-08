@@ -121,8 +121,8 @@ mission-control-ai/
 ├── data/
 
 └── assets/
-├── screenshot_banner.png
-└── creenshot_analise.png
+screenshot_banner.png
+screenshot_analise.png
 
 ## Como Executar
 
