@@ -25,9 +25,7 @@ O EnviroSat monitora áreas ambientais e auxilia na detecção de focos de calor
 - Coordenador de brigada de combate a incêndio
 - Analista de compliance ambiental
 
-## Modelo de Negócio
-
-## Perguntas da Global Solution
+## ## Análise de Impacto e Modelo de Negócio
 
 ### 1. Qual o problema real terrestre que esta missão resolve?
 
@@ -57,11 +55,9 @@ Se o satélite operar de forma saudável durante um ano inteiro, a missão poder
 * Apoio às equipes de combate a incêndios;
 * Produção de relatórios ambientais mais precisos.
 
-Como estimativa, o sistema pode auxiliar no monitoramento de mais de 100.000 km² de áreas ambientais ao longo de um ano, aumentando a capacidade de resposta e reduzindo impactos ambientais.
+Como estimativa, o sistema pode auxiliar no monitoramento de mais de 100.000 km² de áreas ambientais ao longo de um ano, contribuindo para a detecção antecipada de incêndios e para a preservação de áreas protegidas.
 
----
-
-### Modelo de negócio
+### 4. Modelo de negócio
 
 O modelo de negócio principal é Dado como Serviço (Data as a Service - DaaS).
 
@@ -69,6 +65,7 @@ Os clientes contratam acesso aos dados coletados e às análises geradas pelo si
 
 Além disso, o projeto pode ser utilizado em contratos governamentais de monitoramento ambiental, parcerias público-privadas e serviços especializados para organizações que necessitam de informações ambientais em tempo real.
 
+---
 
 ## Funcionalidades
 
@@ -124,6 +121,8 @@ mission-control-ai/
 ├── data/
 
 └── assets/
+├── screenshot_banner.png
+└── creenshot_analise.png
 
 ## Como Executar
 
