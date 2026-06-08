@@ -67,7 +67,7 @@ Além disso, o projeto pode ser utilizado em contratos governamentais de monitor
 
 ---
 
-## Capturas de Tela
+## Capturas do Programa
 
 ### Tela Inicial do Sistema
 
