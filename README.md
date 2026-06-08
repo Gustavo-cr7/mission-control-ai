@@ -179,3 +179,6 @@ Quando o satélite apresenta falhas operacionais, o monitoramento ambiental pode
 O projeto Mission Control AI - EnviroSat demonstra a aplicação da Inteligência Artificial Generativa no monitoramento de missões espaciais voltadas à observação ambiental.
 
 A solução integra telemetria simulada, regras de decisão em Python e análise por IA para auxiliar operadores na identificação de riscos operacionais e seus impactos no combate a incêndios, monitoramento ambiental e preservação de áreas protegidas.
+
+## Vídeo de demonstração
+🎥 [Assistir no YouTube](https: /www.youtube.com/watch?v= .)
