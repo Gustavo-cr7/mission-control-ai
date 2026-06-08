@@ -19,7 +19,7 @@ Este projeto simula um sistema de centro de controle para um satélite de observ
 
 O EnviroSat monitora áreas ambientais e auxilia na detecção de focos de calor, monitoramento de vegetação e identificação de riscos relacionados a incêndios e desmatamento. O objetivo é fornecer informações que possam apoiar equipes responsáveis pela preservação ambiental e resposta a emergências.
 
-## Persona Atendida
+## Pessoa Atendida
 
 - Operador de centro de controle ambiental
 - Coordenador de brigada de combate a incêndio
@@ -56,6 +56,8 @@ Se o satélite operar de forma saudável durante um ano inteiro, a missão poder
 * Produção de relatórios ambientais mais precisos.
 
 Como estimativa, o sistema pode auxiliar no monitoramento de mais de 100.000 km² de áreas ambientais ao longo de um ano, contribuindo para a detecção antecipada de incêndios e para a preservação de áreas protegidas.
+
+---
 
 ### 4. Modelo de negócio
 
