@@ -25,6 +25,51 @@ O EnviroSat monitora áreas ambientais e auxilia na detecção de focos de calor
 - Coordenador de brigada de combate a incêndio
 - Analista de compliance ambiental
 
+## Modelo de Negócio
+
+## Perguntas da Global Solution
+
+### 1. Qual o problema real terrestre que esta missão resolve?
+
+A missão EnviroSat tem como objetivo monitorar áreas ambientais por meio de observação via satélite. O sistema auxilia na identificação de focos de calor, monitoramento da vegetação, acompanhamento de áreas de desmatamento e suporte a brigadas ambientais.
+
+Com isso, é possível detectar problemas ambientais com maior rapidez, permitindo respostas mais eficientes em situações de incêndios florestais e degradação ambiental.
+
+---
+
+### 2. Quem paga pela solução?
+
+O modelo adotado é híbrido.
+
+O setor público pode utilizar a solução por meio de órgãos ambientais e de monitoramento, como INPE, IBAMA, Defesa Civil e secretarias estaduais de meio ambiente.
+
+O setor privado também pode utilizar os dados gerados pelo sistema, especialmente empresas do agronegócio, cooperativas agrícolas, concessionárias florestais, seguradoras e organizações que dependem de monitoramento ambiental contínuo.
+
+---
+
+### 3. Métrica de impacto
+
+Se o satélite operar de forma saudável durante um ano inteiro, a missão poderá monitorar milhares de quilômetros quadrados de áreas ambientais, contribuindo para:
+
+* Detecção antecipada de focos de incêndio;
+* Monitoramento contínuo de áreas de vegetação;
+* Identificação de regiões com possível desmatamento;
+* Apoio às equipes de combate a incêndios;
+* Produção de relatórios ambientais mais precisos.
+
+Como estimativa, o sistema pode auxiliar no monitoramento de mais de 100.000 km² de áreas ambientais ao longo de um ano, aumentando a capacidade de resposta e reduzindo impactos ambientais.
+
+---
+
+### 4. Modelo de negócio
+
+O modelo de negócio principal é Dado como Serviço (Data as a Service - DaaS).
+
+Os clientes contratam acesso aos dados coletados e às análises geradas pelo sistema por meio de assinatura periódica.
+
+Além disso, o projeto pode ser utilizado em contratos governamentais de monitoramento ambiental, parcerias público-privadas e serviços especializados para organizações que necessitam de informações ambientais em tempo real.
+
+
 ## Funcionalidades
 
 - Geração de telemetria simulada
