@@ -67,6 +67,18 @@ Além disso, o projeto pode ser utilizado em contratos governamentais de monitor
 
 ---
 
+## Capturas de Tela
+
+### Tela Inicial do Sistema
+
+![Tela Inicial](assets/screenshot_banner.png)
+
+### Exemplo de Análise da IA
+
+![Análise da IA](assets/screenshot_analise.png)
+
+---
+
 ## Funcionalidades
 
 - Geração de telemetria simulada
